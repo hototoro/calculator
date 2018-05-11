@@ -4,7 +4,9 @@ int add(int, int);
 int sub(int, int);
 int div(int, int);
 int multi(int, int);
- 
+int mod(int, int);
+
+
 int main(int argc, char* argv[])
 {
 	int number1, number2, result;
@@ -53,6 +55,12 @@ int multi(int number1, int number2)
 }
  
 int div(int number1, int number2)
+{
+	//TODO implementation
+	return 0;
+}
+
+int mod(int number1, int number2)
 {
 	//TODO implementation
 	return 0;
