@@ -4,7 +4,7 @@ int add(int, int);
 int sub(int, int);
 int div(int, int);
 int multi(int, int);
-int mod(int, int);
+int mod(int, int);// add comment
 
 
 int main(int argc, char* argv[])
